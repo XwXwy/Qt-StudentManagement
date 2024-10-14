@@ -142,9 +142,3 @@ git clone https://github.com/你的用户名/StudentManagementSystem.git
    - 你可以在业务逻辑层（BLL）添加新的功能方法，然后在用户界面层（UI）绑定这些功能。
 
 
-
----
-
-将以上内容复制到 `README.md` 文件后，可以直接在 GitHub 上显示为一个格式化良好的项目文档。
-
-如果你有其他问题，随时可以问我！
